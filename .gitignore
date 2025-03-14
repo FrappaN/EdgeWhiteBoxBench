@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 *.npy
 /GraphXAI
+.DS_Store
